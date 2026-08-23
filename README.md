@@ -109,7 +109,6 @@ vendor-performance-analysis/
 2. Load the CSVs and ingest into database:
 ```bash
    - `Blinkit Sales Script DB.sql`
-```
 3. Open and run notebooks:
    - `Blinkit Analysis Notebook.ipynb`
 4. Open Power BI Dashboard:
@@ -118,9 +117,9 @@ vendor-performance-analysis/
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
-•	Increase focus on top-performing item categories (Household, Dairy, Starchy Foods)
-•	Improve underperforming categories like Baking Goods
-•	Validate and standardize the Rating and Item Weight data quality
+- Increase focus on top-performing item categories (Household, Dairy, Starchy Foods)
+-	Improve underperforming categories like Baking Goods
+-	Validate and standardize the Rating and Item Weight data quality
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
