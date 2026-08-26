@@ -108,12 +108,12 @@ E-Commerce-Sales-performance-analysis/
 ```
 2. Load the CSVs and ingest into database:
 ```bash
-   - `Blinkit Sales Script DB.sql`
+   - `E-Commerce Sales Sales Script DB.sql`
 ```
 3. Open and run notebooks:
-   - `Blinkit Analysis Notebook.ipynb`
+   - `E-Commerce Analysis Notebook.ipynb`
 4. Open Power BI Dashboard:
-   - `Blinkit Dashboard.pbix`
+   - `E-Commerce Dashboard.pbix`
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
