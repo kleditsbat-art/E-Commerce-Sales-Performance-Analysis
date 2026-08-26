@@ -108,7 +108,7 @@ E-Commerce-Sales-performance-analysis/
 ```
 2. Load the CSVs and ingest into database:
 ```bash
-   - `E-Commerce Sales Sales Script DB.sql`
+   - `E-Commerce Sales Sales Script DB.`
 ```
 3. Open and run notebooks:
    - `E-Commerce Analysis Notebook.ipynb`
