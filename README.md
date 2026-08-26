@@ -97,7 +97,7 @@ E-Commerce-Sales-performance-analysis/
   - sales by location tier
   - item sold
 
-![Retali Sales Dashboard](images/Blinkit_Sales_Dashboard_Image.png)
+![Retali Sales Dashboard](images/E-Commerce_Sales_Dashboard_Image.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
