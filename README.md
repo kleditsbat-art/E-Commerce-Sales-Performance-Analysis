@@ -1,7 +1,7 @@
 
 # 🧾 E-Commerce Sales Data — Data Analysis
 
-_Analyze E-Commerce Store sales performance , distributions of Sales, Item Weight, Item Visibility, Rating and support to decision-making using Power BI ,Python , SQL._
+_Analyze E-Commerce Store sales performance , distributions, Item Weight, Item Visibility, Rating and support to decision-making using Power BI ,Python , SQL._
 
 ---
 
