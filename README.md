@@ -46,7 +46,7 @@ E-commerce store operates across multiple outlet types, sizes, and location tier
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-vendor-performance-analysis/
+E-Commerce-Sales-performance-analysis/
 │
 ├── README.md
 ├── .gitignore
@@ -54,13 +54,13 @@ vendor-performance-analysis/
 ├── E-Commerce Sales Data Analysis Report.pdf
 │
 ├── notebooks/                  # Jupyter notebooks
-│   └── Blinkit Analysis Notebook.ipynb
+│   └── E-Commerce Sales Analysis Notebook.ipynb
 │
 ├── scripts/                    # Python scripts for ingestion and processing
-│   └── Blinkit Sales Script DB.py
+│   └── E-Commerce Sales Sales Script DB.py
 │
 ├── dashboard/                  # Power BI dashboard file
-│   └── Blinkit Dashboard.pbix
+│   └── E-Commerce Sales Dashboard.pbix
 ```
 
 ---
@@ -127,6 +127,6 @@ vendor-performance-analysis/
 
 **Kartik Lokare**  
 Data Analyst  
-- 📧 Email: [kartiklokare8@gmali.com](kartiklokare8@gmali.com)
+- 📧 Email: [kartiklokare8@gmail.com](kartiklokare8@gmail.com)
 - 🔗 [LinkedIn](linkedin.com/in/kartik-lokare-5521a7395)  
 - 🔗 [Portfolio](https://github.com/kleditsbat-art?tab=repositories)
