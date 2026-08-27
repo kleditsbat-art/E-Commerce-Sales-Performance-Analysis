@@ -128,5 +128,5 @@ E-Commerce-Sales-performance-analysis/
 **Kartik Lokare**  
 Data Analyst  
 - 📧 Email: [kartiklokare8@gmail.com](kartiklokare8@gmail.com)
-- 🔗 [LinkedIn](www.linkedin.com/in/kartik-lokare)  
+- 🔗 [LinkedIn](linkedin.com/in/kartik-lokare)  
 - 🔗 [Portfolio](https://github.com/kartik-lokare?tab=repositories)
